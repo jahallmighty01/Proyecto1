@@ -1,4 +1,6 @@
 
 package ado.edu.itla.app
 
-class Aplication {}
+class Aplication {
+	private String appName;
+	}
